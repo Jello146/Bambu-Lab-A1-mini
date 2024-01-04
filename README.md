@@ -64,6 +64,13 @@ II. Настройка transocks и windows.
 
    ![image](https://github.com/Jello146/Bambu-Lab-A1-mini/assets/34299327/6000f9c8-c2e3-448b-9745-13569255183d)
 
+   Если подключиться не получается, то можно попробовать брать другой сервер для подключения (обычно не плохо работает Пекин (BeiJing)):
+   
+   ![image](https://github.com/Jello146/Bambu-Lab-A1-mini/assets/34299327/a0897fd5-17db-42ec-8a7e-7118004d257d)
+
+   ![image](https://github.com/Jello146/Bambu-Lab-A1-mini/assets/34299327/9ae5fe9a-92a1-4953-bd35-78ec30b06591)
+
+
    Windows:
    
    Включаем Мобильный xoт-спот в windows (10,11):
